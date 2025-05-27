@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       <div className="flex justify-between items-center">
         <div className="flex items-center gap-2">
           <CheckSquare className="text-indigo-500 dark:text-indigo-400" size={28} />
-          <h1 className="text-2xl font-bold text-gray-800 dark:text-white">TaskMaster</h1>
+          <h1 className="text-2xl font-bold text-gray-800 dark:text-white">Self Planner</h1>
         </div>
         <button
           onClick={toggleTheme}
