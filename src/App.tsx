@@ -24,7 +24,7 @@ function App() {
               </main>
               <footer className="mt-12 text-center text-sm">
                 <p className="text-gray-500 dark:text-gray-400">
-                  TaskMaster - Your beautiful task management app © {new Date().getFullYear()}
+                  Self Planner - Your beautiful task management app © {new Date().getFullYear()}
                 </p>
                 <p className="mt-2 text-gray-600 dark:text-gray-300">
                   Made with <span className="text-red-500">♥</span> by{' '}
